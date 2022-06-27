@@ -1,0 +1,4 @@
+Warning[2058] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\PIC\Frequencimentro\frequencimetro.c 21 : call of function without prototype
+Warning[2058] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\PIC\Frequencimentro\frequencimetro.c 26 : call of function without prototype
+Warning[2068] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\PIC\Frequencimentro\frequencimetro.c 131 : obsolete use of implicit 'int' detected
+Warning[2103] C:\Users\MATEUS\Documents\Projetos Proteus\MCMP\PIC\Frequencimentro\frequencimetro.c 131 : default startup code expects main function declared as 'void main (void)'
